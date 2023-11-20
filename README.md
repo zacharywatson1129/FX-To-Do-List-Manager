@@ -1,11 +1,11 @@
 # FX-To-Do-List-Manager
 A very simple to-do-list manager. Built with:
 
-<img src="images/JavaFX_Logo.png" width="150" title="hover text">
+<img src="images/JavaFX_Logo.png" width="120" title="hover text">
 
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/Screenshot.png" alt="Screenshot.png">
+    <img width="700" src="images/Screenshot.png" alt="Screenshot.png">
   </a>
 </div>
 
