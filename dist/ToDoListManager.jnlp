@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="ToDoListManager.jnlp">
+  <information>
+    <title>ToDoListManager</title>
+    <vendor>zacharywatson1129</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="ToDoListManager.jar" size="10002" download="eager" />
+    <jar href="lib\charsets.jar" size="3091908" download="eager" />
+    <jar href="lib\jaxen-1.1.6.jar" size="231882" download="eager" />
+    <jar href="lib\jce.jar" size="95638" download="eager" />
+    <jar href="lib\jfxswt.jar" size="38818" download="eager" />
+    <jar href="lib\jsse.jar" size="639275" download="eager" />
+    <jar href="lib\management-agent.jar" size="380" download="eager" />
+    <jar href="lib\resources.jar" size="3485151" download="eager" />
+    <jar href="lib\rt.jar" size="62547348" download="eager" />
+    <jar href="lib\sqlite-jdbc-3.20.0.jar" size="6637012" download="eager" />
+    <jar href="lib\xercesImpl.jar" size="1367760" download="eager" />
+    <jar href="lib\xml-apis.jar" size="220536" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="ToDoListManager" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="main.Main"  name="ToDoListManager" />
+  <update check="always"/>
+</jnlp>
