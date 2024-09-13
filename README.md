@@ -3,7 +3,7 @@ A very simple to-do-list manager. Built with:
 
 <img src="images/JavaFX_Logo.png" width="120" title="hover text">
 
-Allows for creation of to-do items where the status can be toggled between 'Not complete', 'Partially complete', and 'Complete'.
+The application utilizes a suimple SQLite database. Allows for creation of to-do items where the status can be toggled between 'Not complete', 'Partially complete', and 'Complete'.
 Each item, at creation, is assigned a priority, chosen from the dropdown box, either 'Low', 'Medium', or 'High'. You can toggle
 the status of the item as you complete it, if desired.
 
